@@ -10,4 +10,10 @@ public class WarehouseApplication {
 		SpringApplication.run(WarehouseApplication.class, args);
 	}
 
+
+	Product product =
+			new Product("Molle e kuqe","Molle",120.0,2023,
+					"full","Markata");
+
+
 }
